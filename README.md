@@ -15,7 +15,7 @@ Screenshot:
 
 ## Setup
 
-To use this calculator, simply clone or download the repository and open the index.html file in your web browser. or access it directly from this [URL](https://piouscode.github.io/JavaScript-Calculator-/)
+To use this calculator, simply clone or download the repository and open the index.html file in your web browser or you can access it directly from this [URL](https://piouscode.github.io/JavaScript-Calculator-/)
 
 ## Customization
 
